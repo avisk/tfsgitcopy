@@ -13,6 +13,7 @@ namespace GITCopy.Web.Controllers
         public IEnumerable<string> Get()
         {
             // this is for testing
+            // second comment
             return new string[] { "value1", "value2" };
         }
 
