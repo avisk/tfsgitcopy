@@ -10,6 +10,7 @@ namespace GITCopy.Web.Controllers
     {
         public ActionResult Index()
         {
+            //Sample
             return View();
         }
     }
