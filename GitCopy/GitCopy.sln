@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "GitCopy.Cloud", "GitCopy.Cloud\GitCopy.Cloud.ccproj", "{2BAFD45B-C930-4303-A72E-08EDA59D89FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITCopy.Web", "GITCopy.Web\GITCopy.Web.csproj", "{81D165E0-FFB1-4F41-A21D-A7F93E1514BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAFD45B-C930-4303-A72E-08EDA59D89FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAFD45B-C930-4303-A72E-08EDA59D89FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAFD45B-C930-4303-A72E-08EDA59D89FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAFD45B-C930-4303-A72E-08EDA59D89FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D165E0-FFB1-4F41-A21D-A7F93E1514BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D165E0-FFB1-4F41-A21D-A7F93E1514BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D165E0-FFB1-4F41-A21D-A7F93E1514BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D165E0-FFB1-4F41-A21D-A7F93E1514BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
