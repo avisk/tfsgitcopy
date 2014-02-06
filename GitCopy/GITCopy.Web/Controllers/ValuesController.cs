@@ -14,6 +14,8 @@ namespace GITCopy.Web.Controllers
         {
             // this is for testing
             // second comment
+            //3rd comment
+            //4th
             return new string[] { "value1", "value2" };
         }
 
