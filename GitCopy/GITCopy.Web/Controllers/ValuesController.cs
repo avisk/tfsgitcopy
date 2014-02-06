@@ -12,6 +12,7 @@ namespace GITCopy.Web.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
+            // this is for testing
             return new string[] { "value1", "value2" };
         }
 
